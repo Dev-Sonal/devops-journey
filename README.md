@@ -26,9 +26,9 @@
 ✅ Day 1 completed successfully
 
 
-## Day 2 – Linux File Handling, Logs & Git (WSL)
+### Day 2 – Linux File Handling, Logs & Git (WSL)
 
-#Commands Learned
+## Commands Learned
 
 - cp – copy files and directories
 - mv – move or rename files
@@ -52,7 +52,7 @@
 - Used grep to search ERROR and WARN messages
 - Used tail -f for live log monitoring
 
-#Permissions Practice
+# Permissions Practice
 
 - Understood rwx permissions for user, group, others
 - Practiced numeric permissions (644, 755, 777)
