@@ -65,9 +65,9 @@
 
 ✅ Day 2 completed successfully
 
-# Day 3 – Process, Disk & Memory Management
+## Day 3 – Process, Disk & Memory Management
 
-# Commands Learned
+### Commands Learned
 
 - Process & System Monitoring
 - ps aux – list all running processes
@@ -88,7 +88,7 @@
 - Identified top disk-consuming directories using du
 - Monitored system memory using free -m
 
-# Notes
+### Notes
 - High CPU or stuck processes can slow down servers
 - Disk full issues are one of the main causes of production outages
 - Always monitor disk usage before deployments
@@ -97,16 +97,16 @@
   ✅ Day 3 completed successfully
 
 
-# Day 4 – Log Management (Core DevOps Skill)
+## Day 4 – Log Management (Core DevOps Skill)
 
-# Commands Learned
+### Commands Learned
 
 - tail -f – monitor log file in real time
 - less – view large log files efficiently
 - grep -i – search text ignoring case
 - | (pipe) – pass output of one command to another
 
-# Practical Tasks
+### Practical Tasks
 
 - Created a sample log file (app.log)
 - Viewed logs using less
@@ -114,20 +114,20 @@
 - Searched WARN messages using grep -i warn
 - Monitored logs live using tail -f
 
-# Notes
+### Notes
 
 - Logs are the first place to check when applications fail
 - tail -f is commonly used during live incident debugging
 - Using pipe (|) improves troubleshooting speed
 - Most DevOps work revolves around logs and monitoring
 
-# GitHub Update
+### GitHub Update
 
 - Updated README with Day 3 and Day 4 learning notes
 - Committed and pushed changes to GitHub
 - Maintaining daily DevOps learning consistency
 
-# Git Commands Used
+### Git Commands Used
 - git add README.md
 - git commit -m "Day 3 & Day 4: Process, Disk, Memory & Log Management"
 - git push origin main
